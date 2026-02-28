@@ -88,7 +88,7 @@ Jika tidak ditemukan:
 
 ---
 
-## Cara Menjalankan
+## Cara Menjalankann
 
 ### 1. Install Dependencies
 
